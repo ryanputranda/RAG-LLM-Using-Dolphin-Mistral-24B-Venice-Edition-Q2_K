@@ -4,7 +4,7 @@ Minichatbot berbasis Retrieval-Augmented Generation (RAG) untuk menjawab pertany
 
 ---
 
-## Ringkasan Komponen
+# Ringkasan Komponen
 
 | Komponen   | Nilai                                                   |
 |------------|---------------------------------------------------------|
@@ -20,11 +20,12 @@ Minichatbot berbasis Retrieval-Augmented Generation (RAG) untuk menjawab pertany
 
 ---
 
-Note:
+### Note:
 
 Ini merupakan model RAG LLM minimimalis, proses inferencenya bisa memakan waktu hingga 20-50 menit, perlu ganti model LLM yang lebih recommended
 
 
-Pustaka Mistral:
+
+### Pustaka Mistral:
 
 https://huggingface.co/bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF
